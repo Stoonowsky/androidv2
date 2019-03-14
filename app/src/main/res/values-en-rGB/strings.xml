@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="moj_tekst">Hello world!</string>
+    <string name="zasob_4">ANDROID IS A C A T</string>
+    <string name="zasob_3">It\'s a nice string</string>
+    <string name="zasob_2">ye ye ye</string>
+    <string name="zasob_1">No hello</string>
+</resources>
